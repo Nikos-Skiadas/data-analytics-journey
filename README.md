@@ -59,7 +59,7 @@ This repository documents every step: learning, projects, certifications, and fr
 - [x] `about_me.md` – personal background & goals  
 - [x] Google professional email setup
 - [x] GitHub repository created  
-- [ ] LinkedIn profile setup  
+- [x] LinkedIn profile setup  
 - [ ] Project tracker initialization  
 
 ---
