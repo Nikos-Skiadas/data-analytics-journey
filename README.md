@@ -21,24 +21,20 @@ This repository documents every step: learning, projects, certifications, and fr
 ---
 
 ## 🧱 Repository Structure
-data-analytics-journey/
-│
-├── Phase1_Digital_Setup/
-│ ├── about_me.md
-│ ├── github_setup.md
-│ └── linkedin_setup.md
-│
-├── Phase2_Learning/
-│ ├── python_basics/
-│ ├── sql_intro/
-│ └── powerbi_dashboards/
-│
-├── Phase3_Portfolio/
-│ ├── sales_dashboard/
-│ ├── customer_segmentation/
-│ └── forecasting_project/
-│
-└── README.md
+
+- **Phase1_Digital_Setup/**
+  - `about_me.md`
+  - `github_setup.md`
+  - `linkedin_setup.md`
+- **Phase2_Learning/**
+  - `python_basics/`
+  - `sql_intro/`
+  - `powerbi_dashboards/`
+- **Phase3_Portfolio/**
+  - `sales_dashboard/`
+  - `customer_segmentation/`
+  - `forecasting_project/`
+- **README.md**
 
 ---
 
