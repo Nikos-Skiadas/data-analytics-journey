@@ -66,7 +66,8 @@ This repository documents every step: learning, projects, certifications, and fr
 ## 💬 Contact
 **Nikos Skiadas**  
 📧 nk.skiadas@gmail.com  
-🌐 [GitHub Profile](https://github.com/Nikos-Skiadas)  
+🌐 [GitHub Profile](https://github.com/Nikos-Skiadas) 
+💼 [LinkedIn Profile](www.linkedin.com/in/nkskiadas)
 📄 [About Me](about_me.md)
 
 ---
