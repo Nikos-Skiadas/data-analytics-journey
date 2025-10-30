@@ -42,4 +42,4 @@ where I document my roadmap to becoming a professional Data Analyst.
 
 **Email:** nk.skiadas@gmail.com  
 **GitHub:** [Nikos-Skiadas](https://github.com/Nikos-Skiadas)  
-**LinkedIn:** coming soon  
+**LinkedIn:** (https://www.linkedin.com/in/nkskiadas
