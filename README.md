@@ -1,6 +1,13 @@
 # 🎯 Data Analytics Career Roadmap  
 **Author:** Nikos Skiadas  
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=database&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Google Certificate](https://img.shields.io/badge/Google_Data_Analytics-In_Progress-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Microsoft Certificate](https://img.shields.io/badge/Microsoft_PL--300-In_Progress-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
+![NKUA](https://img.shields.io/badge/NKUA-Student-005EB8?style=for-the-badge&logo=university&logoColor=white)
+
 ---
 
 ## 🧠 Overview
